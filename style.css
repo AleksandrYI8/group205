@@ -1,0 +1,62 @@
+.wrap {
+    max-width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 70px;
+    background: #313131;
+}
+
+.item_box {
+    display: flex;
+    gap: 250px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20 px;
+}
+
+.pp {
+    font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+padding-right: 10px;
+}
+
+.aa {
+   
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #DA4533;
+text-decoration: 0;
+}
+
+.number_box {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding-top: 22px;
+}
+
+.nav{
+    display: flex;
+    
+    gap: 20px;
+    align-items: center;
+}
+
+.nav a {
+   text-decoration: 0;
+   color: white;
+    
+
+}
